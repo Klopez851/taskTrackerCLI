@@ -1,4 +1,4 @@
-#Task Tracker (CLI)
+# Task Tracker (CLI)
 A simple command-line interface application for managing tasks with basic CRUD operations. Uses JSON and Jackson to store and read tasks.
 
 ## Getting Started
